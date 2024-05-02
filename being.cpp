@@ -27,6 +27,9 @@ class being{
 
     protected:
     public:
+        being(string x){
+            name = x;
+        }
         int modifier(int* stat){
             return ((stat -10)/2);
         }
