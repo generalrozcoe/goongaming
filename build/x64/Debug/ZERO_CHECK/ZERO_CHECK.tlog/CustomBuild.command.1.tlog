@@ -1,0 +1,10 @@
+^C:\USERS\ROZCOE\GOONGAMING\BUILD\CMAKEFILES\E166429F2CBC1515A2B8CD0695FF48F0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/rozcoe/goongaming -BC:/Users/rozcoe/goongaming/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/rozcoe/goongaming/build/goongaming.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

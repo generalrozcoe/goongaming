@@ -1,8 +1,9 @@
-import "being.cpp"
+#include "being.cpp"
+#include <iostream>
 
 
-main(){
-being player(Rozcrates);
-player.age = 5;
-cout << player.name << endl; 
+int main(){
+being player("Rozcrates");
+std::cout << player.getName() ; 
+return 0;
 }

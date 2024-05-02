@@ -1,3 +1,6 @@
+#include <stdlib.h>
+
+
 class being{
     private:
         char* name;
@@ -13,29 +16,18 @@ class being{
         int sly;
         int heart;
 
-    enum skill{ force, sway, act, data, sly, heart};
-    unordered_map<int, string> skill {
-        {0, "force"},
-        {1, "sway"}
-        {2, "act"},
-        {3, "data"},
-        {4, "sly" },
-        {5, "heart"},
-
-    };
-
-
-    protected:
     public:
-        being(string x){
+        being(char* x){
             name = x;
         }
         int modifier(int* stat){
-            return ((stat -10)/2);
+            return ((*stat - 10)/2);
         }
         void shuffle(int* stat){
-            *stat = (rand%20+1);
+            *stat = (rand()%20+1);
             return;
         }
-        void shuffleAll
-}
+        char* getName(){
+            return name;
+        }
+};

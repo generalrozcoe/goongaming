@@ -1,8 +1,12 @@
-cmake_minimum_required(3.10)
+cmake_minimum_required(VERSION 3.0.0)
+project(goongaming VERSION 0.1.0 LANGUAGES C CXX)
 
-project( goongaming)
-add_executable(
-    main
-    being
+include(CTest)
+enable_testing()
 
-)
+add_executable(goongaming main.cpp
+being.cpp)
+
+set(CPACK_PROJECT_NAME ${PROJECT_NAME})
+set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
+include(CPack)

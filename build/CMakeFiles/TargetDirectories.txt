@@ -1,0 +1,9 @@
+C:/Users/rozcoe/goongaming/build/CMakeFiles/Experimental.dir
+C:/Users/rozcoe/goongaming/build/CMakeFiles/Nightly.dir
+C:/Users/rozcoe/goongaming/build/CMakeFiles/Continuous.dir
+C:/Users/rozcoe/goongaming/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/rozcoe/goongaming/build/CMakeFiles/goongaming.dir
+C:/Users/rozcoe/goongaming/build/CMakeFiles/PACKAGE.dir
+C:/Users/rozcoe/goongaming/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/rozcoe/goongaming/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/rozcoe/goongaming/build/CMakeFiles/ZERO_CHECK.dir
