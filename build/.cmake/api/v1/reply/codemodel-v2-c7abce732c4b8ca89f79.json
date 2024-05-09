@@ -1,0 +1,264 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "goongaming",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-8d3f1130587ad4caa5b8.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-53958420bc50687f59b5.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "goongaming::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-goongaming-Debug-83fbe74edd412319ee03.json",
+					"name" : "goongaming",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "goongaming",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-8d3f1130587ad4caa5b8.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-53958420bc50687f59b5.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "goongaming::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-goongaming-Release-0aaff053e7b122ccc907.json",
+					"name" : "goongaming",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-MinSizeRel-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "goongaming",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-8d3f1130587ad4caa5b8.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-53958420bc50687f59b5.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "goongaming::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-goongaming-MinSizeRel-8331dc69cd3a02e10134.json",
+					"name" : "goongaming",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "goongaming",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-8d3f1130587ad4caa5b8.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-53958420bc50687f59b5.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "goongaming::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-goongaming-RelWithDebInfo-1b54d8cc186732de68cd.json",
+					"name" : "goongaming",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/rozcoe/goongaming/build",
+		"source" : "C:/Users/rozcoe/goongaming"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
